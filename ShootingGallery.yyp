@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "64ab43de-8377-45c2-ad73-2f6e9daa052b",
+            "Value": {
+                "id": "45466086-0bff-48ba-8a35-9b59e1f9a405",
+                "resourcePath": "timelines\\timeline_room_game\\timeline_room_game.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "6f7b4b77-33f8-4f55-b86b-594a7b9fde6a",
             "Value": {
                 "id": "3a0b1170-2ff8-4d6d-9ed0-8f5498e4c517",
@@ -204,6 +212,14 @@
                 "id": "49950aa0-1636-4b12-893c-ab315464beb1",
                 "resourcePath": "views\\bdf57ee7-7b9b-464f-8915-99c2013def20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c9d20bf6-51ca-47ae-948a-ceaf93267516",
+            "Value": {
+                "id": "17c4414a-d8cc-4fe5-b80d-cdbf75da0e5f",
+                "resourcePath": "objects\\object_controller\\object_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
