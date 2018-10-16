@@ -13,7 +13,7 @@ draw_set_font(font_in_game);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
-/// @DnDHash : 1E21D167
+/// @DnDHash : 06965488
 /// @DnDArgument : "x" "50"
 /// @DnDArgument : "y" "10"
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
