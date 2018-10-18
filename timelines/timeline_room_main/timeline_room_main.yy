@@ -90,12 +90,12 @@
             "moment": 225
         },
         {
-            "id": "fc3781e4-d728-4906-83d1-eea942cc90cc",
+            "id": "020083f6-518b-488e-a067-29fc747ac9be",
             "modelName": "GMMoment",
             "mvc": "1.0",
             "name": "",
             "evnt": {
-                "id": "82146416-1e5e-46ed-8e42-c6d68e02a006",
+                "id": "433e85fc-c457-4d6b-b871-6de163782360",
                 "modelName": "GMEvent",
                 "mvc": "1.0",
                 "IsDnD": true,
@@ -124,21 +124,21 @@
             "moment": 300
         },
         {
-            "id": "29a49fd6-df93-4be8-833c-4f39fd46be80",
+            "id": "755c7b47-9431-403d-b8b8-eb931cbe0296",
             "modelName": "GMMoment",
             "mvc": "1.0",
             "name": "",
             "evnt": {
-                "id": "4b2e45c2-2654-4120-aec8-06d304b2832f",
+                "id": "60b46acf-481d-40ba-863b-7c63d84c6a7c",
                 "modelName": "GMEvent",
                 "mvc": "1.0",
                 "IsDnD": true,
                 "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-                "enumb": 375,
+                "enumb": 350,
                 "eventtype": 0,
                 "m_owner": "64ab43de-8377-45c2-ad73-2f6e9daa052b"
             },
-            "moment": 375
+            "moment": 350
         }
     ]
 }

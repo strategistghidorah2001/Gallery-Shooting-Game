@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "1d9c4cb6-ca48-43e3-bf47-03e6a6bb5803",
+            "Value": {
+                "id": "e75247f6-3139-47c8-994d-a627da3cc227",
+                "resourcePath": "objects\\object_gameover\\object_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "261626e7-3659-4dfd-a318-f75b9fe8b5bc",
             "Value": {
                 "id": "dcef7857-c146-4cc1-b4db-e0b23d8a5799",
                 "resourcePath": "objects\\object_duck\\object_duck.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2b3b36b8-e905-4dae-94e0-0cceecbfe428",
+            "Value": {
+                "id": "a09cbcea-59ff-4749-84a0-f0a7ae127ef8",
+                "resourcePath": "rooms\\room_end\\room_end.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -172,6 +188,14 @@
                 "id": "827ad80f-97ee-4e7f-ab52-12aea11547b3",
                 "resourcePath": "views\\836f745d-1ecb-4638-bc6a-00c6488b5f0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "85515fef-33a4-47cf-a88d-9dab1b7cf962",
+            "Value": {
+                "id": "0c0f9ee1-f4c2-4231-925e-8a3b9b87e878",
+                "resourcePath": "fonts\\font_game_end\\font_game_end.yy",
+                "resourceType": "GMFont"
             }
         },
         {
